@@ -1,0 +1,47 @@
+Package: com.lizynz.shadowbuster.rootless
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Akashima <akashima@ya.ru>
+Filename: ./debs/com.lizynz.shadowbuster.rootless_1.0_iphoneos-arm64.deb
+Size: 2330
+SHA256: 38a05a047f8a8321dc40741dda549318ef93f8a9510ab0b0090455fab6618755
+Section: Tweaks
+Description: Get rid shadows
+Author: Akashima <akashima@ya.ru>
+Name: ShadowBuster
+
+Package: com.sqm.sysrr
+Version: 17
+Architecture: iphoneos-arm64
+Maintainer: BigBoss
+Filename: ./debs/deb.deb
+Size: 190054
+SHA256: 3bc95292f0341b7055ddb5a9c6a247c3e5c77cba24b80639fe92f3547e75b0d8
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: david
+Name: roro
+
+Package: com.demo.packge
+Version: 17.5.16
+Architecture: iphoneos-arm64
+Maintainer: Akashima
+Filename: ./debs/com.demo.package_1.0_iphoneos-arm64.deb
+Size: 26436
+SHA256: bcd0f0eddd25bb4f24da9c75b60c53898ce3f893ef8c1ea2850bd7a0aab8548c
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Akashima
+Name: Innisfree
+
+Package: com.dylib
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Akashima
+Filename: ./debs/dylib.deb
+Size: 48516
+SHA256: 8f2a34e6741df7d759c4186154edd4c82ad1ec5ef1e47d1f1cdee91a0c1bcd90
+Section: Tweaks
+Description: An awesome tweak!
+Author: Akashima
+Name: Dylib
